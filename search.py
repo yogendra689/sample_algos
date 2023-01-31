@@ -26,7 +26,7 @@ def binary_search(arr, element_to_find):
     
 
 # example: ternary_seach([1,2,3,4,5,6,7,8,9,10,11], 9)
-# complexity : log3n, logarithmic 
+# complexity : logn/3, logarithmic 
 def ternary_seach(arr, element_to_find):
     l = 0
     array_size = len(arr)
